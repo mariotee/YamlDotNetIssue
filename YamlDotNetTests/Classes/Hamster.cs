@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using YamlDotNetTests.Interfaces;
+
+namespace YamlDotNetTests.Classes
+{
+    public class Hamster : IAnimal
+    {
+        public string name { get; set; }
+        public bool likesTv { get; set; }
+    }
+}

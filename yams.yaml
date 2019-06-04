@@ -1,0 +1,10 @@
+pets:
+- name: skippy
+  likesMilk: true
+- name: felix
+  likesMilk: true
+- name: ralf
+  likesBones: true
+- name: Hamtaro
+  likesTv: true
+...

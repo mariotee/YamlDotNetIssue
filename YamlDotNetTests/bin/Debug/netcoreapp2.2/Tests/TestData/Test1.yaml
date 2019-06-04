@@ -1,0 +1,14 @@
+﻿---
+pets:
+  - !Cat
+    name: skippy
+    likesMilk: true
+  - !Cat
+    name: felix
+    likesMilk: true
+  - !Dog
+    name: ralf
+    likesBones: true
+  - !Hamster
+    name: Hamtaro
+    likesTv: true

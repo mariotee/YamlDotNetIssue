@@ -1,0 +1,14 @@
+C:\Users\mtorres\source\repos\YamlDotNetTests\YamlDotNetTests\bin\Debug\netcoreapp2.2\YamlDotNetTests.deps.json
+C:\Users\mtorres\source\repos\YamlDotNetTests\YamlDotNetTests\bin\Debug\netcoreapp2.2\YamlDotNetTests.runtimeconfig.json
+C:\Users\mtorres\source\repos\YamlDotNetTests\YamlDotNetTests\bin\Debug\netcoreapp2.2\YamlDotNetTests.runtimeconfig.dev.json
+C:\Users\mtorres\source\repos\YamlDotNetTests\YamlDotNetTests\bin\Debug\netcoreapp2.2\YamlDotNetTests.dll
+C:\Users\mtorres\source\repos\YamlDotNetTests\YamlDotNetTests\obj\Debug\netcoreapp2.2\YamlDotNetTests.csproj.CoreCompileInputs.cache
+C:\Users\mtorres\source\repos\YamlDotNetTests\YamlDotNetTests\obj\Debug\netcoreapp2.2\YamlDotNetTests.AssemblyInfoInputs.cache
+C:\Users\mtorres\source\repos\YamlDotNetTests\YamlDotNetTests\obj\Debug\netcoreapp2.2\YamlDotNetTests.AssemblyInfo.cs
+C:\Users\mtorres\source\repos\YamlDotNetTests\YamlDotNetTests\bin\Debug\netcoreapp2.2\YamlDotNetTests.pdb
+C:\Users\mtorres\source\repos\YamlDotNetTests\YamlDotNetTests\obj\Debug\netcoreapp2.2\YamlDotNetTests.dll
+C:\Users\mtorres\source\repos\YamlDotNetTests\YamlDotNetTests\obj\Debug\netcoreapp2.2\YamlDotNetTests.pdb
+C:\Users\mtorres\source\repos\YamlDotNetTests\YamlDotNetTests\bin\Debug\netcoreapp2.2\Tests\TestData\Test1.yaml
+C:\Users\mtorres\source\repos\YamlDotNetTests\YamlDotNetTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\mtorres\source\repos\YamlDotNetTests\YamlDotNetTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\mtorres\source\repos\YamlDotNetTests\YamlDotNetTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
